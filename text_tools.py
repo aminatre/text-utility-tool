@@ -14,7 +14,7 @@ def count_words(text: str)-> int:
     return len(text.split())
 
 def count_letters(text: str) -> int:
-    """Counts number of letters (including spaces)."""
+    """Counts the number of letters (including spaces)."""
     return len(text)
 
 def count_specific_letter(text: str, letter: str) -> int:

@@ -1,4 +1,5 @@
 def remove_vowels(text: str) -> str:
+    """Removes vowels from text."""
     vowels = "aeiouAEIOU"
     result = []
 

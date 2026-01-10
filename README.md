@@ -6,7 +6,7 @@ A Python tool that performs basic text processing operations.
 - Count words
 - Count letters
 - Reverse text
-- Remove vowels (planned)
+- Remove vowels  (planned)
 
 ## Project status
 This project is currently under development.
