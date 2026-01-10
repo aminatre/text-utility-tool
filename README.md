@@ -4,7 +4,7 @@ A Python tool that performs basic text processing operations.
 
 ## Features
 - Count words
-- Count letters
+- Count letter
 - Reverse text
 - Remove vowels  (planned)
 
