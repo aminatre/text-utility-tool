@@ -10,11 +10,11 @@ def main():
 
 
 def count_words(text: str)-> int:
-    """Counts the nuber of words in a text, using Python's built-in split()."""
+    """Counts the number of words in a text, using Python's built-in split()."""
     return len(text.split())
 
 def count_letters(text: str) -> int:
-    """Counts nuber of letters (including spaces)."""
+    """Counts number of letters (including spaces)."""
     return len(text)
 
 def count_specific_letter(text: str, letter: str) -> int:
